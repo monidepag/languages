@@ -7,3 +7,4 @@ Chinese: nǐn hǎo.
 Portuguese: olá
 Arabic: asalaam alaikum.
 Japanese: konnichiwa.
+English: hello
